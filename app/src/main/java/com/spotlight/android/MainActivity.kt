@@ -82,4 +82,8 @@ fun LoadingScreen() {
             verticalArrangement = Arrangement.Center
         ) {
             CircularProgressIndicator()
-            Spacer(modifier = Modifier.he
+            Spacer(modifier = Modifier.height(16.dp))
+            Text("Загрузка приложений...")
+        }
+    }
+} 
