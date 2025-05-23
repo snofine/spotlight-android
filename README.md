@@ -23,5 +23,6 @@ git clone https://github.com/ТВОЙ_ЮЗЕРНЕЙМ/spotlight-android.git
 cd spotlight-android
 ./gradlew assembleDebug
 ```
+### Либо скачать апк из [Releases](https://github.com/snofine/spotlight-android/releases/tag/v1.0.0)
 ## Licence
 MIT licence
