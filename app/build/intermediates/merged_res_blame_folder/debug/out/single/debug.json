@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.spotlight.android.app-merged_res-54:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.spotlight.android.app-main-56:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.spotlight.android.app-merged_res-54:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.spotlight.android.app-main-56:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.spotlight.android.app-merged_res-54:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.spotlight.android.app-main-56:/drawable/ic_launcher_foreground.xml"
+    }
+]
